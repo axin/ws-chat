@@ -1,0 +1,14 @@
+{
+  "name": "ws-chat-sever",
+  "version": "1.0.0",
+  "description": "Simple chat that uses WebSockets protocol.",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexey Sazykin",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^1.0.1"
+  }
+}
